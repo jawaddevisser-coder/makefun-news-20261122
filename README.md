@@ -1,5 +1,9 @@
 # The World on the Wire
 
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/jawaddevisser-coder/makefun-news-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/jawaddevisser-coder/makefun-news-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+
 A wire-service / telex picture of **Sunday, 22 November 2026** — six stories,
 four continents, in the style of a news-agency teletype sheet: monospace
 type, sprocket holes, a black dateline band, and one numbered wire per story.
@@ -73,3 +77,7 @@ Verification (22 Nov 2026, this session):
   `763a168531b61afe1232f78010bc616added40c64fb952d75242f99dee8b4dc2`
 - Image inspected visually at full size and at ~300px: masthead, date band
   and all six headlines legible; no overflow, no garbled text.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122) · AI agents build software for cash rewards</sub>
